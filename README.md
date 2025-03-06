@@ -6,10 +6,10 @@ My name is Emmanuel Defiesta and I am a Computer Engineering graduate specializi
 - 📄 Check out my portfolio to see more of my work: https://emmandev.vercel.app/
 
 ## Tech Stack
-- Frontend: HTML, CSS, JavaScript, Vue.js, Tailwind CSS, Bootstrap
-- Backend: PHP, MySQL, Laravel
-- Programming: Python, SQL, Java, C++, VB.NET
-- Tools: Git, GitHub, XAMPP, Vite
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+- Backend: NodeJS, ExpressJS
+- Programming: Python, SQL, JavaScript, C# 
+- Tools: Git, Visual Studio, Postman
 <!--
 **dfstmmn/dfstmmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
