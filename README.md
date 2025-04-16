@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Emman Defiesta
 
-My name is Emmanuel Defiesta and I am a Computer Engineering graduate specializing in Software Engineering. I am a Web Developer. 
+My name is Emmanuel Defiesta and I am a Computer Engineering graduate specializing in Software Engineering. 
 
 - 📫 How to reach me: You can find me on www.linkedin.com/in/emmanuel-defiesta-916b172a7 or email me at emmandefiesta.23@gmail.com
 - 📄 Check out my portfolio to see more of my work: https://emmandev.vercel.app/
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
-- Backend: NodeJS, ExpressJS
-- Programming: Python, SQL, JavaScript, C# 
+- Backend: Node.js, Express.js
+- Programming: Python, SQL, JavaScript, C#, PHP 
 - Tools: Git, Visual Studio, Postman
 <!--
 **dfstmmn/dfstmmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
