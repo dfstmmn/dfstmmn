@@ -8,7 +8,8 @@ My name is Emmanuel Defiesta and I am a Computer Engineering graduate specializi
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
 - Backend: Node.js, Express.js
-- Programming: Python, SQL, JavaScript, C#, PHP 
+- Databases: Microsoft SQL Server, MySQL
+- Programming Languages: Python, SQL, JavaScript, C#, PHP, VB.NET 
 - Tools: Git, Visual Studio, Postman
 <!--
 **dfstmmn/dfstmmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
